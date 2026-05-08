@@ -122,4 +122,4 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-Developed with ❤️ Iktiar Alim Chowdhury & Mojahid...
+Developed with ❤️ Iktiar Alim Chowdhury  
